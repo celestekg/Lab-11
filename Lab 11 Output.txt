@@ -1,0 +1,188 @@
+============
+= Square 1 =
+============
+8       1       6
+3       5       7
+4       9       2
+
+The sum of the row 0 is 15
+The sum of the row 1 is 15
+The sum of the row 2 is 15
+
+The sum of the column 0 is 15
+The sum of the column 1 is 15
+The sum of the column 2 is 15
+
+The sum of the main diagonal is 15
+The sum of the reverse diagonal is 15
+
+This matrix is a magic box!
+
+
+============
+= Square 2 =
+============
+30      39      48      1       10      19      28
+38      47      7       9       18      27      29
+46      6       8       17      26      35      37
+5       14      16      25      34      36      45
+13      15      24      33      42      44      4
+21      23      32      41      43      3       12
+22      31      40      49      2       11      20
+
+The sum of the row 0 is 175
+The sum of the row 1 is 175
+The sum of the row 2 is 175
+The sum of the row 3 is 175
+The sum of the row 4 is 175
+The sum of the row 5 is 175
+The sum of the row 6 is 175
+
+The sum of the column 0 is 175
+The sum of the column 1 is 175
+The sum of the column 2 is 175
+The sum of the column 3 is 175
+The sum of the column 4 is 175
+The sum of the column 5 is 175
+The sum of the column 6 is 175
+
+The sum of the main diagonal is 175
+The sum of the reverse diagonal is 175
+
+This matrix is a magic box!
+
+
+============
+= Square 3 =
+============
+48      9       6       39
+27      18      21      36
+15      30      33      24
+12      45      42      3
+
+The sum of the row 0 is 102
+The sum of the row 1 is 102
+The sum of the row 2 is 102
+The sum of the row 3 is 102
+
+The sum of the column 0 is 102
+The sum of the column 1 is 102
+The sum of the column 2 is 102
+The sum of the column 3 is 102
+
+The sum of the main diagonal is 102
+The sum of the reverse diagonal is 102
+
+This matrix is a magic box!
+
+
+============
+= Square 4 =
+============
+6       2       7
+1       5       3
+2       9       4
+
+The sum of the row 0 is 15
+The sum of the row 1 is 9
+The sum of the row 2 is 15
+
+The sum of the column 0 is 9
+The sum of the column 1 is 16
+The sum of the column 2 is 14
+
+The sum of the main diagonal is 15
+The sum of the reverse diagonal is 14
+
+This matrix is not a magic box!
+
+
+============
+= Square 5 =
+============
+3       16      2       13
+6       9       7       12
+10      5       11      8
+15      4       14      1
+
+The sum of the row 0 is 34
+The sum of the row 1 is 34
+The sum of the row 2 is 34
+The sum of the row 3 is 34
+
+The sum of the column 0 is 34
+The sum of the column 1 is 34
+The sum of the column 2 is 34
+The sum of the column 3 is 34
+
+The sum of the main diagonal is 24
+The sum of the reverse diagonal is 40
+
+This matrix is not a magic box!
+
+
+============
+= Square 6 =
+============
+17      24      15      8       1
+23      5       16      14      7
+4       6       22      13      20
+10      12      3       21      19
+11      18      9       2       25
+
+The sum of the row 0 is 65
+The sum of the row 1 is 65
+The sum of the row 2 is 65
+The sum of the row 3 is 65
+The sum of the row 4 is 65
+
+The sum of the column 0 is 65
+The sum of the column 1 is 65
+The sum of the column 2 is 65
+The sum of the column 3 is 58
+The sum of the column 4 is 72
+
+The sum of the main diagonal is 90
+The sum of the reverse diagonal is 60
+
+This matrix is not a magic box!
+
+
+============
+= Square 7 =
+============
+30      39      48      1       10      28      19
+38      47      7       9       18      29      27
+46      6       8       17      26      37      35
+5       14      16      25      34      45      36
+13      15      24      33      42      4       44
+21      23      32      41      43      12      3
+22      31      40      49      2       20      11
+
+The sum of the row 0 is 175
+The sum of the row 1 is 175
+The sum of the row 2 is 175
+The sum of the row 3 is 175
+The sum of the row 4 is 175
+The sum of the row 5 is 175
+The sum of the row 6 is 175
+
+The sum of the column 0 is 175
+The sum of the column 1 is 175
+The sum of the column 2 is 175
+The sum of the column 3 is 175
+The sum of the column 4 is 175
+The sum of the column 5 is 175
+The sum of the column 6 is 175
+
+The sum of the main diagonal is 175
+The sum of the reverse diagonal is 168
+
+This matrix is not a magic box!
+
+
+This program was coded by Celeste Going.
+
+--------------------------------
+Process exited after 0.354 seconds with return value 0
+Press any key to continue . . .
